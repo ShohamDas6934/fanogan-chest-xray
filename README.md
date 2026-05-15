@@ -23,6 +23,10 @@ NIH ChestX-ray14 — no disease labels required during training.
 | Test images | 4,192 (3,000 normal + 1,192 disease) |
 | Resolution | 128×128 |
 
+![ROC Curve](roc_curve.png)
+
+---
+
 ### Context vs Published Work
 | Score | Context |
 |---|---|
